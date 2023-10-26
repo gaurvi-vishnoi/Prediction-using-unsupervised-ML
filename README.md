@@ -1,1 +1,3 @@
-# Task_2-Prediction-using-unsupervised-ML
+# Prediction-using-unsupervised-ML
+
+Prediction using Unsupervised Machine Learning involves making predictions or inferences from data that doesn't have labeled outcomes or targets. Unsupervised ML methods, such as clustering and dimensionality reduction, are used to discover patterns, structures, or groupings within data. These patterns can then be used for tasks like customer segmentation, anomaly detection, or recommendation systems. Unsupervised ML doesn't rely on predefined categories or labels, making it valuable for exploring and extracting hidden insights from large and complex datasets.
